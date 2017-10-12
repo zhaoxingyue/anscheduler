@@ -1,0 +1,22 @@
+{
+  "name": "anscheduler",
+  "version": "1.0.0",
+  "description": "Task scheduling library for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoxingyue/anscheduler.git"
+  },
+  "keywords": [
+    "task scheduler timer jobs sequelize mongodb"
+  ],
+  "author": "scheduler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhaoxingyue/anscheduler/issues"
+  },
+  "homepage": "https://github.com/zhaoxingyue/anscheduler#readme"
+}
